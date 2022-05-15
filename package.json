@@ -1,0 +1,15 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Marquez <danielarturo.marquez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
